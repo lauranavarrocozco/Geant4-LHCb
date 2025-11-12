@@ -3,7 +3,7 @@
 #include "G4HadronPhysicsFTFP_BERT.hh"
 #include "physics.hh"  
 
-
+// nota
 MyPhysicsList::MyPhysicsList()
 {
     RegisterPhysics(new G4EmStandardPhysics());
